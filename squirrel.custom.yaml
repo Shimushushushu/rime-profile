@@ -1,0 +1,19 @@
+patch:
+  style/color_scheme: lilac
+  # style/font_face: 'LXGW WenKai'
+  style/font_face: 'Source Han Sans SC'
+  style/font_point: 16
+  style/horizontal: true
+  app_options/com.apple.finder:
+    ascii_mode: true
+  app_options/com.apple.Terminal:
+    ascii_mode: true
+  app_options/com.microsoft.VSCode:
+    ascii_mode: true
+  preset_color_schemes/lilac:
+    name: lilac
+    author: Shimushu
+    back_color: '0x777777'
+    text_color: '0xFFFFFF'
+    hilited_back_color: '0xE3A4CC'
+    hilited_candidate_back_color: '0xE3A4CC'
